@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.42ff0922.chunk.css",
+    "main.js": "./static/js/main.97575bad.chunk.js",
+    "main.js.map": "./static/js/main.97575bad.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.a8b3c379.js",
+    "runtime-main.js.map": "./static/js/runtime-main.a8b3c379.js.map",
+    "static/js/2.1c753d47.chunk.js": "./static/js/2.1c753d47.chunk.js",
+    "static/js/2.1c753d47.chunk.js.map": "./static/js/2.1c753d47.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.42ff0922.chunk.css.map": "./static/css/main.42ff0922.chunk.css.map",
+    "static/js/2.1c753d47.chunk.js.LICENSE.txt": "./static/js/2.1c753d47.chunk.js.LICENSE.txt",
+    "static/media/brightonUniversity.eed547c9.png": "./static/media/brightonUniversity.eed547c9.png",
+    "static/media/england.1ff9f91a.png": "./static/media/england.1ff9f91a.png",
+    "static/media/france.57a10d08.png": "./static/media/france.57a10d08.png",
+    "static/media/hashnode.4c3c2081.png": "./static/media/hashnode.4c3c2081.png",
+    "static/media/home.e1b57b38.png": "./static/media/home.e1b57b38.png",
+    "static/media/logo.6ce24c58.svg": "./static/media/logo.6ce24c58.svg",
+    "static/media/universiteParis.39bedddf.png": "./static/media/universiteParis.39bedddf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8b3c379.js",
+    "static/js/2.1c753d47.chunk.js",
+    "static/css/main.42ff0922.chunk.css",
+    "static/js/main.97575bad.chunk.js"
+  ]
+}
