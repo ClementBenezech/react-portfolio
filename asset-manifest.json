@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.012ab891.chunk.css",
-    "main.js": "./static/js/main.460804ee.chunk.js",
-    "main.js.map": "./static/js/main.460804ee.chunk.js.map",
+    "main.css": "./static/css/main.1c872706.chunk.css",
+    "main.js": "./static/js/main.a614c41a.chunk.js",
+    "main.js.map": "./static/js/main.a614c41a.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.a8b3c379.js",
     "runtime-main.js.map": "./static/js/runtime-main.a8b3c379.js.map",
     "static/js/2.e601619f.chunk.js": "./static/js/2.e601619f.chunk.js",
     "static/js/2.e601619f.chunk.js.map": "./static/js/2.e601619f.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.012ab891.chunk.css.map": "./static/css/main.012ab891.chunk.css.map",
+    "static/css/main.1c872706.chunk.css.map": "./static/css/main.1c872706.chunk.css.map",
     "static/js/2.e601619f.chunk.js.LICENSE.txt": "./static/js/2.e601619f.chunk.js.LICENSE.txt",
     "static/media/brightonUniversity.eed547c9.png": "./static/media/brightonUniversity.eed547c9.png",
     "static/media/england.1ff9f91a.png": "./static/media/england.1ff9f91a.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.a8b3c379.js",
     "static/js/2.e601619f.chunk.js",
-    "static/css/main.012ab891.chunk.css",
-    "static/js/main.460804ee.chunk.js"
+    "static/css/main.1c872706.chunk.css",
+    "static/js/main.a614c41a.chunk.js"
   ]
 }
