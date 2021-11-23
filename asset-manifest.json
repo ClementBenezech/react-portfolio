@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.80a1b7fb.chunk.css",
+    "main.css": "./static/css/main.d225a7c5.chunk.css",
     "main.js": "./static/js/main.bd57efe8.chunk.js",
     "main.js.map": "./static/js/main.bd57efe8.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.a8b3c379.js",
@@ -8,7 +8,7 @@
     "static/js/2.ba1ea8eb.chunk.js": "./static/js/2.ba1ea8eb.chunk.js",
     "static/js/2.ba1ea8eb.chunk.js.map": "./static/js/2.ba1ea8eb.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.80a1b7fb.chunk.css.map": "./static/css/main.80a1b7fb.chunk.css.map",
+    "static/css/main.d225a7c5.chunk.css.map": "./static/css/main.d225a7c5.chunk.css.map",
     "static/js/2.ba1ea8eb.chunk.js.LICENSE.txt": "./static/js/2.ba1ea8eb.chunk.js.LICENSE.txt",
     "static/media/brightonUniversity.eed547c9.png": "./static/media/brightonUniversity.eed547c9.png",
     "static/media/england.1ff9f91a.png": "./static/media/england.1ff9f91a.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.a8b3c379.js",
     "static/js/2.ba1ea8eb.chunk.js",
-    "static/css/main.80a1b7fb.chunk.css",
+    "static/css/main.d225a7c5.chunk.css",
     "static/js/main.bd57efe8.chunk.js"
   ]
 }
